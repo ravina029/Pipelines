@@ -1,4 +1,4 @@
-pipelines provide a structured and efficient way to organize the machine learning workflow, ensuring consistency, readability, and reproducibility. 
+**Pipelines** provide a structured and efficient way to organize the machine learning workflow, ensuring consistency, readability, and reproducibility. 
 They are particularly beneficial in situations involving complex preprocessing steps and hyperparameter tuning.
 
 **Convenience and Simplicity:**
